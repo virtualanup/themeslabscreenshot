@@ -7,3 +7,4 @@ Syntax:
     python3 generate.py https://themeslab.co themeslab
 
 
+This program needs chromedriver installed.
